@@ -1,2 +1,6 @@
 # LeafPluginsAPI
-API de nossos plugins
+Biblioteca API de nossos plugins.
+
+## Plugins com API:
+* LeafTags
+* LeafPunish
